@@ -3,7 +3,7 @@
 ## Download the script with Github
 1. Make a new folder
 2. Open PowerShell
-3.  Select your folder and copy the path ![Tutorial Image](/assets/images/tutorial.png)
+3.  Select your folder and copy the path ![Tutorial Image](/tutorial.png)
 4. Open PowerShell and write: cd " The path ou copied "
 5. Then enter " git clone https://github.com/MustaficIvan/Inactivity.git " this will create a folder with the name Inactivity
 6. Enter that folder by entering: " cd Inactivity "
